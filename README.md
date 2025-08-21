@@ -2,10 +2,9 @@
 
 A visually rich blog that serves as a digital doorway to Uttar Pradesh, the heart of India. This project explores the state's magnificent heritage, sacred spirituality, vibrant culture, and royal cuisine through a clean and responsive design.
 
-**[Live Demo](https://piyush181105.github.io/MeraPradesh/)** 👈 *(Replace with your actual GitHub Pages link)*
+**[Live Demo](https://piyush181105.github.io/MeraPradesh/)** 👈 
 
-![Mera Pradesh Homepage](![eb693fe67b98421db0ed34015ed9985d](https://github.com/user-attachments/assets/483cdae6-0c57-44bf-bf96-24f7b81c93e5)
-) 👈 *(Replace with a URL to a screenshot of your project)*
+![Mera Pradesh Homepage]()
 
 ---
 
