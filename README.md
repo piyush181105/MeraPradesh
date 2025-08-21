@@ -47,7 +47,7 @@ To view or work on this project locally, simply follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-github-username/MeraPradesh.git](https://github.com/your-github-username/MeraPradesh.git)
+    git clone [https://github.com/piyush181105/MeraPradesh.git](https://github.com/piyush181105/MeraPradesh.git)
     ```
 2.  **Navigate to the directory:**
     ```bash
